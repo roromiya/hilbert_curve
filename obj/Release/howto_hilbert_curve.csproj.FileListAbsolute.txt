@@ -1,0 +1,7 @@
+C:\C#project\howto_hilbert_curve\bin\Release\howto_hilbert_curve.exe
+C:\C#project\howto_hilbert_curve\bin\Release\howto_hilbert_curve.pdb
+C:\C#project\howto_hilbert_curve\obj\Release\howto_hilbert_curve.Form1.resources
+C:\C#project\howto_hilbert_curve\obj\Release\howto_hilbert_curve.Properties.Resources.resources
+C:\C#project\howto_hilbert_curve\obj\Release\howto_hilbert_curve.csproj.GenerateResource.Cache
+C:\C#project\howto_hilbert_curve\obj\Release\howto_hilbert_curve.exe
+C:\C#project\howto_hilbert_curve\obj\Release\howto_hilbert_curve.pdb
